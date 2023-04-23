@@ -8,7 +8,7 @@
 + ./data/original_train: https://drive.google.com/file/d/1UGrMGfb9zvbBqOvbV62G-XdUlBIAvOad/view
 + ./data/original_test: https://drive.google.com/file/d/19OD9a29nrSbLC2Pch4UZtpp8qtFZLd-y/view
 ## Link weight: 
-+ https://drive.google.com/drive/folders/1dnvg_yltDYfp-U0iwfbOSBRHVT7Nz8S5?usp=sharing
++ https://drive.google.com/drive/folders/1K0Y3FNf_HZtC--t1as6U2KW8nHz20nut?usp=sharing
 Trong link này chứa 3 file là clahe.pth, vessel.pth và final.pth. Để chạy test trên 3 file này, hãy lưu 3 file này ở đường dẫn ./logs/
 ## Link demo: 
 + https://www.youtube.com/watch?v=pYjkTm1qoaI&t=112s
